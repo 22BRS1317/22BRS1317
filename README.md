@@ -2,71 +2,64 @@
 
 🎓 **B.Tech CSE (AI & Robotics)** @ VIT Chennai  
 🌐 **Full-Stack Developer | AI/ML Enthusiast | Robotics Innovator**  
-📍 Based in India | 💬 Always up for meaningful tech conversations!
+📍 India | 💬 Let's build something amazing!
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and results-driven Computer Science undergraduate with a focus on **Artificial Intelligence**, **Robotics**, and **Scalable Web Development**. I love turning complex problems into simple, elegant solutions – whether it's building autonomous drones in ROS, crafting AI chatbots, or launching full-stack web applications used by thousands.
+I'm a passionate and results-driven Computer Science undergraduate with a strong focus on **Artificial Intelligence**, **Robotics**, and **Full-Stack Development**. I thrive on solving complex problems and building scalable, real-world systems — from autonomous drones to AI chatbots.
 
 ---
 
-## 🧠 My Interests
+## 🧠 Interests
 
-- 🤖 **Robotics & Autonomous Systems** – Simulation, path planning, ROS, Gazebo
-- 🌐 **Full-Stack Development** – MERN stack, REST APIs, authentication
-- 🧠 **AI/ML & Computer Vision** – TensorFlow, CNNs, real-time prediction apps
-- 🔒 **IoT & Embedded Systems** – Smart lockers, environment monitors
-- 📈 **Scalable Systems & Optimization** – MPI parallel processing, algorithm tuning
+- 🤖 Autonomous Robotics & Drone Simulation (ROS, Gazebo)
+- 🧠 AI/ML with TensorFlow & CNNs
+- 🌐 MERN Stack & Scalable Web Apps
+- 🔒 IoT Systems with real-time feedback
+- ⚙️ Parallel & Distributed Computing
+
+---
+
+## 🔥 Featured Projects
+
+- 🗨️ [**AI Chatbot**](https://22brs1317.github.io/chatbot) – Real-time interactive assistant using React & NLP  
+- 🚁 **Drone Delivery Simulation** – ROS Melodic & Gazebo for obstacle-avoiding autonomous missions  
+- 🛒 **E-Commerce Website** – Full-stack MERN platform with authentication and real-time order tracking  
+- 🔐 **Smart Locker System** – IoT + Telegram API integration for secure notifications  
+- 🦴 **Bone Fracture Detection** – CNN-based diagnostic tool for X-ray classification  
+
+Explore more on my [GitHub Repositories](https://github.com/22BRS1317?tab=repositories) 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `Python` `C++` `JavaScript` `SQL` `MongoDB` `HTML/CSS` `R`
+`Python` `Java` `C++` `JavaScript` `SQL` `MongoDB` `HTML/CSS` `R`
 
 **Frameworks & Tools:**  
-`React` `Node.js` `Express.js` `Bootstrap` `WordPress`  
-`TensorFlow` `PyTorch` `Open MPI`  
-`Git` `VS Code` `Anaconda` `Jupyter` `Arduino` `Raspberry Pi`  
-
-**Dev Practices:**  
-☁️ API Design • 🧪 Testing • 📊 Data Visualization • 🔐 Security-aware coding
+`React` `Node.js` `Express.js` `Bootstrap` `TensorFlow` `PyTorch` `Open MPI` `ROS`  
+`Arduino` `Raspberry Pi` `Git` `VS Code` `Jupyter` `Anaconda` `MongoDB`
 
 ---
 
-## 💼 Recent Experience
+## 📈 GitHub Stats
 
-- **Microsoft Azure AI-900 Intern** @ EtrainIndia  
-  Improved customer satisfaction using deployed AI models & NLP techniques
-
-- **MERN Stack Developer** @ Ethnus  
-  Developed and deployed full-scale applications handling 10k+ users
+![Chakri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22BRS1317&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22BRS1317&layout=compact&theme=github_dark)
 
 ---
 
-## 🔥 Featured Projects
-
-- **🗨️ AI Chatbot** – React-based, NLP-powered assistant [🔗 Live Demo](https://22brs1317.github.io/chatbot)
-- **🛒 E-Commerce Platform** – MERN stack with secure auth and real-time tracking
-- **🚁 Drone Delivery Simulation** – ROS + Gazebo simulation with live navigation
-- **🔐 Smart Locker System** – IoT project with Telegram alert integration
-- **🦴 Bone Fracture Detection** – CNN-based classifier for X-ray scans
-
-🔗 Explore some of my projects in the [repositories section](https://github.com/22BRS1317)
-
----
-
-## 📫 Let's Connect
+## 📫 Connect with Me
 
 - 📧 Email: [chakri.thotakura2022@vitstudent.ac.in](mailto:chakri.thotakura2022@vitstudent.ac.in)  
 - 💼 LinkedIn: [linkedin.com/in/chakri-thotakura-321b87277](https://www.linkedin.com/in/chakri-thotakura-321b87277)  
-- 💻 GitHub: [22BRS1317](https://github.com/22BRS1317)
+- 💻 GitHub: [github.com/22BRS1317](https://github.com/22BRS1317)
 
 ---
 
-> “Technology is best when it brings people together.” – Matt Mullenweg
+> _"Technology is best when it brings people together." – Matt Mullenweg_
 
-Thanks for visiting! 🌟
+Thanks for stopping by! 🌟

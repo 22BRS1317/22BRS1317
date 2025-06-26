@@ -48,7 +48,7 @@ Explore more on my [GitHub Repositories](https://github.com/22BRS1317?tab=reposi
 ## 📈 GitHub Stats
 
 ![Chakri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22BRS1317&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22BRS1317&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22BRS1317&layout=compact&theme=github_dark) 
 
 ---
 

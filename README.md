@@ -24,13 +24,12 @@ I'm a passionate and results-driven Computer Science undergraduate with a strong
 
 ## 🔥 Featured Projects
 
+- 🧑‍💼 [**Personal Portfolio**](https://22brs1317.github.io/Portfolio) – A sleek and responsive showcase of my projects, experience, and skills  
 - 🗨️ [**AI Chatbot**](https://22brs1317.github.io/chatbot) – Real-time interactive assistant using React & NLP  
 - 🚁 **Drone Delivery Simulation** – ROS Melodic & Gazebo for obstacle-avoiding autonomous missions  
 - 🛒 **E-Commerce Website** – Full-stack MERN platform with authentication and real-time order tracking  
 - 🔐 **Smart Locker System** – IoT + Telegram API integration for secure notifications  
-- 🦴 **Bone Fracture Detection** – CNN-based diagnostic tool for X-ray classification  
-
-Explore more on my [GitHub Repositories](https://github.com/22BRS1317?tab=repositories) 🚀
+- 🦴 **Bone Fracture Detection** – CNN-based diagnostic tool for X-ray classification
 
 ---
 

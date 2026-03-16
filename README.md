@@ -24,12 +24,123 @@ I'm a passionate and results-driven Computer Science undergraduate with a strong
 
 ## 🔥 Featured Projects
 
-- 🧑‍💼 [**Personal Portfolio**](https://22brs1317.github.io/Portfolio) – A sleek and responsive showcase of my projects, experience, and skills  
-- 🗨️ [**AI Chatbot**](https://22brs1317.github.io/chatbot) – Real-time interactive assistant using React & NLP  
-- 🚁 **Drone Delivery Simulation** – ROS Melodic & Gazebo for obstacle-avoiding autonomous missions  
-- 🛒 **E-Commerce Website** – Full-stack MERN platform with authentication and real-time order tracking  
-- 🔐 **Smart Locker System** – IoT + Telegram API integration for secure notifications  
-- 🦴 **Bone Fracture Detection** – CNN-based diagnostic tool for X-ray classification
+# 🔥 Featured Projects
+
+## 🤖 Clara – AI Productivity Assistant
+
+An AI-powered assistant designed to help users manage tasks, track productivity, and interact through an intelligent interface.
+
+**Tech Stack:** Python, Streamlit, AI/NLP
+
+🔗 Live Demo
+https://chakri-clara.streamlit.app/
+
+🔗 GitHub Repository
+https://github.com/22BRS1317/Clara
+
+---
+
+## 🏥 Smart Health Recommendation System
+
+A machine learning-based health recommendation system that provides personalized health suggestions based on symptoms and user input.
+
+**Tech Stack:** Python, Machine Learning, Streamlit, Data Analysis
+
+🔗 Live Demo
+https://smart-health-recommendation-system.vercel.app/
+
+🔗 GitHub Repository
+https://github.com/22BRS1317/Smart-Health-Recommendation-System
+
+---
+
+## 🎉 Festival Memory Wall
+
+A collaborative digital platform where users can share memories, messages, and celebrations during festivals in a community-driven space.
+
+**Tech Stack:** Python, Streamlit, Web Applications
+
+🔗 Live Demo
+https://festival-memory-wall.streamlit.app/
+
+🔗 GitHub Repository
+https://github.com/22BRS1317/Festival_Memory_wall
+
+---
+## 🍳 Smart Recipe Generator
+
+An AI-powered recipe generator that suggests recipes based on available ingredients, helping users cook creatively with what they already have.
+
+**Tech Stack:** Python, AI/NLP, Streamlit / Web Deployment
+
+🔗 Live Demo
+https://smart-recepie-generator.vercel.app/
+
+🔗 GitHub Repository
+https://github.com/22BRS1317/smart-recepie-generator
+
+---
+## 📅 Intern Task Timeline Tracker
+
+A productivity tool that helps interns track tasks, monitor progress, and visualize timelines during internship projects.
+
+**Tech Stack:** Python, Streamlit, Task Management System
+
+🔗 Live Demo
+https://intern-task-timeline-tracker-app.streamlit.app/
+
+🔗 GitHub Repository
+https://github.com/22BRS1317/Intern-Task-Timeline-Tracker-streamlit
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive developer portfolio showcasing projects, skills, and experience.
+
+🔗 Live Demo
+https://22brs1317.github.io/Portfolio
+
+---
+
+## 🗨️ AI Chatbot
+
+A conversational AI chatbot interface built using React and NLP techniques.
+
+🔗 Live Demo
+https://22brs1317.github.io/chatbot
+
+---
+
+## 🚁 Drone Delivery Simulation
+
+Autonomous drone delivery mission simulation using ROS and Gazebo with obstacle avoidance.
+
+**Tech Stack:** ROS, Gazebo, Python, OpenCV
+
+---
+
+## 🛒 MERN E-Commerce Platform
+
+A full-stack e-commerce platform with authentication, product management, and order processing.
+
+**Tech Stack:** MongoDB, Express.js, React, Node.js
+
+---
+
+## 🔐 Smart Locker System
+
+IoT-based locker system integrated with Telegram notifications for secure real-time alerts.
+
+**Tech Stack:** Arduino, IoT Sensors, Telegram API
+
+---
+
+## 🦴 Bone Fracture Detection
+
+A deep learning model that detects bone fractures from X-ray images using CNN.
+
+**Tech Stack:** Python, TensorFlow, CNN
 
 ---
 
